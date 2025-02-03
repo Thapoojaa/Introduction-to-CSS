@@ -140,9 +140,9 @@ Feel free to contribute to this project! If you have any suggestions or improvem
 
 ## **Connect with Me**
 
-- **GitHub**: [Your GitHub Profile](https://github.com/thapoojaa)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/thapoojaa)
-- **Email**: your.email@example.com
+- **GitHub**: [GitHub Profile](https://github.com/thapoojaa)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/thapoojaa)
+- **Email**: thapoojaathavanesan@gmail.com
 
 
 
