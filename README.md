@@ -57,7 +57,7 @@ This project is a simple, responsive one-page website built using **HTML** and *
 ## **Preview**
 
 ### Desktop View
-![Desktop Preview](assets/desktop-preview.png) <!-- Add a screenshot if available -->
+![Desktop Preview](desktop-preview.png) 
 [Go Live](https://thapoojaa.github.io/Introduction-to-CSS/)
 
 ## **Code Highlights**
