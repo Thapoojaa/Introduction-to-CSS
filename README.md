@@ -54,28 +54,11 @@ This project is a simple, responsive one-page website built using **HTML** and *
 
 ---
 
-## **File Structure**
-
-```
-simple-responsive-website/
-│
-├── index.html          # Main HTML file
-├── styles.css          # CSS file for styling
-├── README.md           # Project documentation
-└── assets/             # Folder for images or icons (if any)
-```
-
----
-
 ## **Preview**
 
 ### Desktop View
 ![Desktop Preview](assets/desktop-preview.png) <!-- Add a screenshot if available -->
 
-### Mobile View
-![Mobile Preview](assets/mobile-preview.png) <!-- Add a screenshot if available -->
-
----
 
 ## **Code Highlights**
 
